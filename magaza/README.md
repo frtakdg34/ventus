@@ -14,3 +14,6 @@ Bu sürüm ürün inceleme, kategori filtresi, beden seçimi ve tarayıcıda tut
 - Gizli anahtarlar sunucu ortamında tutulmalı; yedekleme, hata izleme ve hız sınırları kurulmalı. Veri toplama başlamadan önce gerçek işletmeye uygun gizlilik ve satış metinleri tamamlanmalı.
 
 Ödeme kuruluşu anlaşması ve canlı anahtarlar tamamlanmadan canlı ödeme açılamaz. API anahtarlarını veya kart bilgilerini sohbet mesajına yazmayın.
+
+## İkinci tasarım sürümü
+Tam ekran askılık, beş temsili tişört, Giyim/Objeler geçişi, koleksiyon içi ürün gezinmesi ve önizleme sepeti. ventus-rack-v2.png yerleşik Imagegen ile üretilen transparan tasarım görselidir; gerçek stok ürünü değildir. Üretim özeti: beş eşit hücrede, ahşap askılarda fotogerçekçi pamuklu tişörtler; tebeşir, siyah, mavi, bordo, orman yeşili; şeffaf zemin. Tam üretim istemi image-prompt-v2.txt dosyasındadır.
